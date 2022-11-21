@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Welcome to my blog 8</h1>
+        <h1>About</h1>
     </body>
 </html>
